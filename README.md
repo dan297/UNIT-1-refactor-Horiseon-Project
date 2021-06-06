@@ -10,7 +10,7 @@ I changed many elements in the HTML and CSS files including semantic elements an
 
 ### Link to deployed
 
-https://dan297.github.io/UNIT-1-refactor-Horiseon-Project/UNIT-1-refactor-Horiseon-Project
+https://dan297.github.io/UNIT-1-refactor-Horiseon-Project/UNIT-1-refactor-Horiseon-Project/
 
 
 ### Screenshot of webpage
