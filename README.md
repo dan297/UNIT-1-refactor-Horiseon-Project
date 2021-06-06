@@ -12,7 +12,7 @@ I changed many elements in the HTML and CSS files including semantic elements an
 
 LIVE URL : https://dan297.github.io/UNIT-1-refactor-Horiseon-Project/index1.html
 
-https://dan297.github.io/UNIT-1-refactor-Horiseon-Project/UNIT-1-refactor-Horiseon-Project/
+GITHUB REPO : https://github.com/dan297/UNIT-1-refactor-Horiseon-Project
 
 
 
