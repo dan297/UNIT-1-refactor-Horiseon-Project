@@ -1,6 +1,6 @@
 # Horiseon code refactor 
 
-## Description
+# Description
 
 Having good accessability is an expectation among websites.
 
@@ -8,10 +8,10 @@ The idea behind this project, is to aid Horiseon (a growing marketing agency)in 
 
 I changed many elements in the HTML and CSS files including semantic elements and new creating classes and reuseability. I also added ALT attributes for all of the images and made sure the CSS file followed the new rules applied to the HTML so the website loads as expected. 
 
-# Working links 
+### Link to deployed
+
+https://dan297.github.io/UNIT-1-refactor-Horiseon-Project/
 
 
-
-
-# Screenshot of webpage
+### Screenshot of webpage
 ![](horiseonscreenshot.png)
